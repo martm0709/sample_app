@@ -19,7 +19,10 @@
 
 # Ignore uploaded files in development
 /storage/*
+<<<<<<< HEAD
 !/storage/.keep
+=======
+>>>>>>> c9e360754e64af9120a2f59917c84ee5ac915e21
 
 /node_modules
 /yarn-error.log
